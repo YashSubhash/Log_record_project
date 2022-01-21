@@ -1,0 +1,5 @@
+
+Error: multiplication will give zero
+Error: can not divide by Zero
+Error: subtraction will give negative value
+Error: subtraction will give negative value

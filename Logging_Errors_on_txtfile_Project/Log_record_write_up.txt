@@ -1,0 +1,13 @@
+1.As per the requirement I have created the log record project,
+	I have done a simple calculator which includes addition,subtraction,multiplication,division.
+	In division,when the denominator is 0,
+	the error message is given in the try block and the catch block catches the message and
+         displays it in the error.txt file 
+
+2.My javascript code log the errors into text file if any error occures
+while enter the wrong input
+
+3.My javascript code create text file called Errors.txt 
+and write tha all errors in that file
+
+4.I am sharing the github link for reference
